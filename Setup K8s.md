@@ -141,5 +141,5 @@ exit
     ```bash
     kubeadm join 10.0.2.7:6443 --token e2ctwm.barg1e4w35lg4kej --discovery-token-ca-cert-hash sha256:ea81b70854c915a8d965b038f897261affc4889398b46e1cea3b3f1fddd95036
     ```
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f97ae000-19b9-4e5d-ac2d-0a5ee6ef997c/Untitled.png)
+![image](https://user-images.githubusercontent.com/64065672/150694879-70e1f1dd-6a46-43e4-9eed-015b1386f791.png)
+

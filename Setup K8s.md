@@ -10,8 +10,6 @@
 
 ## **Do this on both kMaster and kWorker:**
 
----
-
 ### 1. Diable Swap:
 
 ```bash
@@ -97,8 +95,6 @@ exit
 
 ## **Do this on kMaster:**
 
----
-
 - Initialisation with kubeadm for cluster network in intern network, in the further steps a Calico network is used
     
     ```bash
@@ -139,8 +135,6 @@ exit
     
 
 ## **Do this on kWorker:**
-
----
 
 - Copy and Pate the "Get cluster join command", simliar to:
     

@@ -1,2 +1,2 @@
 # PrometheusMonitoring
-K8s Monitoring Tool with Grafana and Alertmanager to send notifications to slack
+This Github Repository contains guidelines about a Kubernetes Monitoring Project at the HS Pforzheim.

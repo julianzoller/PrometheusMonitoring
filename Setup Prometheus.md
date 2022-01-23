@@ -14,8 +14,6 @@ Regardless of how they are installed, the new resources are referred to as Custo
     - probes.yaml
     - prometheusrules.yaml
     - servicemonitors.yaml
-        - used to add additional targets
-        - to add a monitoring to the service, you have describe the port and label in the configuration of the service (see Prometheus → servicemonitor.yaml)
     - thanosrulers.yaml (optional)
 - integrate created CRDs
     
@@ -38,7 +36,6 @@ Regardless of how they are installed, the new resources are referred to as Custo
     - namespace.yaml
     - service-account.yaml
     - cluster-role.yaml
-        - grand permission through the whole cluster on all namespaces
     - cluster-role-binding.yaml
     - deployment.yaml
     - service.yaml
@@ -62,7 +59,6 @@ Regardless of how they are installed, the new resources are referred to as Custo
 - configuration files to create:
     - service-account.yaml
     - cluster-role.yaml
-        - grand permission through the whole cluster on all namespaces
     - cluster-role-binding.yaml
     - prometheus.yaml
     - service-monitor.yaml

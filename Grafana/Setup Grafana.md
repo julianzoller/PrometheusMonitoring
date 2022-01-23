@@ -4,7 +4,6 @@
     - service-account.yaml
     - configmap.yaml
     - secret.yaml
-        - Username and Password (encoded in base64)
     - deployment.yaml
     - service.yaml
     - service-monitor.yaml
